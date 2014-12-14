@@ -3,7 +3,7 @@
 Sencha Touch application for demonstration.
 This is maybe good example for developer who want to create Sencha Touch application which works on Node.js.
 
-![Photo-Sharing](http://kawanoshinobu.com/images/photo-sharing.png)
+![Photo-Sharing](http://kawanoshinobu.com/public/images/photo-sharing.png)
 
 ## Live DEMO
 
